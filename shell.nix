@@ -11,8 +11,5 @@ mkShell {
 
     black
     mypy
-
-    libffi
-    openssl
   ];
 }
